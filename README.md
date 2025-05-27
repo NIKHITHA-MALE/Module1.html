@@ -1,5 +1,5 @@
 
-# 🌟 Local Community Event Portal & Dashboards
+# 🌟 Local Community Event Portal&Dashboards
 
 This project contains three beginner-friendly HTML5 pages showcasing core web development skills through practical examples: a User Dashboard, a Help & FAQ page, and the main Community Event Portal interface.
 
@@ -31,9 +31,10 @@ This project contains three beginner-friendly HTML5 pages showcasing core web de
 ## 🏃‍♂️ How to Run
 
 1. Clone or download this repository:
-   git clone https://github.com/NIKHITHA-MALE/Local Community Event Portal & Dashboards.git
+   
+   git clone https://github.com/NIKHITHA-MALE/Local Community Event Portal&Dashboards.git
 
-2. Open any of the HTML files in your preferred browser:
+3. Open any of the HTML files in your preferred browser:
 
    * `welcome.html`
    * `help.html`
