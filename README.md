@@ -83,10 +83,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## ✨ Support
 
 If you find this project helpful, please consider giving it a ⭐ on GitHub!
-
-```
-
----
-
-Would you like me to help generate the LICENSE file too? Or customize the README with screenshots or more detailed instructions?
-```
