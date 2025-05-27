@@ -65,7 +65,7 @@ No server setup is needed — just open and explore!
 
 ## 📬 Contact
 
-**Name:** Malenikhitha
+**Name:** Male Nikhitha
 **Email:** [malenikhitha@gmail.com](mailto:malenikhitha@gmail.com)
 **GitHub:** [github.com/NIKHITHA-MALE](https://github.com/NIKHITHA-MALE)
 
