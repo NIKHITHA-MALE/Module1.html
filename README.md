@@ -1,6 +1,4 @@
-Got it! Here's the same README but with a fresh set of emojis for a different vibe:
 
-````markdown
 # 🌍  Event Portal
 
 A beginner-friendly HTML5 web project designed to promote and manage local community events. It demonstrates various HTML5 features, core web development concepts like form handling, HTML5 APIs (Geolocation, Web Storage), styling, and user interactivity, using only **self-contained HTML files**.
