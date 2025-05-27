@@ -31,7 +31,7 @@ This project contains three beginner-friendly HTML5 pages showcasing core web de
 ## 🏃‍♂️ How to Run
 
 1. Clone or download this repository:
-   git clone https://github.com/NIKHITHA-MALE/local-community-event-portal.git
+   git clone https://github.com/NIKHITHA-MALE/Local Community Event Portal & Dashboards.git
 
 2. Open any of the HTML files in your preferred browser:
 
@@ -65,9 +65,9 @@ No server setup is needed — just open and explore!
 
 ## 📬 Contact
 
-**Name:** Male Nikhitha
-**Email:** [malenikhitha@gmail.com](mailto:malenikhitha@gmail.com)
-**GitHub:** [github.com/NIKHITHA-MALE](https://github.com/NIKHITHA-MALE)
+Name: Male Nikhitha
+Email: [malenikhitha@gmail.com](mailto:malenikhitha@gmail.com)
+GitHub: [github.com/NIKHITHA-MALE](https://github.com/NIKHITHA-MALE)
 
 ---
 
