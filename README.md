@@ -32,7 +32,7 @@ This project contains three beginner-friendly HTML5 pages showcasing core web de
 
 1. Clone or download this repository:
    
-   git clone https://github.com/NIKHITHA-MALE/Local-Community-Event-Portal&Dashboards.git
+   git clone [https://github.com/NIKHITHA-MALE/Local-Community-Event-Portal&Dashboards.git](https://github.com/NIKHITHA-MALE/Module1.html.git)
 
 3. Open any of the HTML files in your preferred browser:
 
